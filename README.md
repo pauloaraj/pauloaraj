@@ -1,5 +1,5 @@
 ### 'Olá!' o/ 👋
-  Eu sou o Paulo Araújo, estudo Análise e Desenvolvimento de Sistemas, atualmente estou estudando Desenvolvimento Front-End. 
+  Eu sou o Paulo Araújo, estudo Análise e Desenvolvimento de Sistemas, e atualmente estou estudando Desenvolvimento Web, iniciando pelo Front-End. 
 
 - 🌱 Estudando JavaScript, HTML, CSS
 
