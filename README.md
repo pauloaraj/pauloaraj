@@ -19,7 +19,7 @@
   <div align="left">
   <a href="https://github.com/pauloaraj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloaraj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloaraj&layout=compact&show_icons=true&theme=dark&include_all_commits=true&count_private=true""https://github.com/pauloaraj/github-readme-stats"/>
 </div>
 <br>
  
