@@ -1,15 +1,14 @@
 ### 'Olá!' o/ 👋
   Eu sou o Paulo Araújo, estudo Análise e Desenvolvimento de Sistemas, e atualmente estou estudando Desenvolvimento Web, iniciando pelo Front-End. 
 
-- 🌱 Estudando JavaScript, HTML, CSS, React.js e TypeScript
-
+- 🌱 Estudando JavaScript, HTML, CSS.
 
 
 <div>
  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Pauo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 </div>
 <br>
 <div>
