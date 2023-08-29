@@ -1,5 +1,5 @@
 ### 'Olá!' o/ 👋
-  Eu sou o Paulo Araújo, atualmente estou estudando Desenvolvimento Web.
+  Eu sou o Paulo Araújo, estudandante de Análise e Desenvolvimento de Sistemas.
 
 - 🌱 Estudando JavaScript, HTML, CSS.
 
