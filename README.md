@@ -1,13 +1,21 @@
 ### 'Olá!' o/ 👋
-  Eu sou o Paulo Araújo, estudandante de Análise e Desenvolvimento de Sistemas.
+  Eu sou o Paulo Araújo trabalho atualmente como auxiliar de ti, e atualmente estou estudandante de Análise e Desenvolvimento de Sistemas.
 
-- 🌱 Estudando JavaScript, HTML, CSS.
-
+- 🌱 iniciei meus estudos na parte de front-end com JavaScript, HTML, CSS.
 
 <div>
  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Pauo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br>
+
+  - hoje tenho focado meus estudos em back-end, estou estudando a linguagen Java e já tive contato com C#.
+<div>
+ <img align="center" alt="Pauo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+
+<img align="center" alt="Pauo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+
 
 </div>
 <br>
@@ -22,4 +30,3 @@
 </div>
 <br>
  
-
