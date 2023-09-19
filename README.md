@@ -10,7 +10,7 @@
 </div>
 <br>
 
-  - hoje tenho focado meus estudos em back-end, estou estudando a linguagen Java e já tive contato com C#.
+  - hoje tenho focado meus estudos em back-end na linguagen Java e já tive contato com C#.
 <div>
  <img align="center" alt="Pauo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
