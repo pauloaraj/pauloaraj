@@ -1,5 +1,5 @@
 ### 'Olá!' o/ 👋
-  Eu sou o Paulo Araújo trabalho atualmente como auxiliar de ti, e atualmente estou estudandante de Análise e Desenvolvimento de Sistemas.
+  Eu sou o Paulo Araújo trabalho atualmente como auxiliar de ti, e estou estudandante de Análise e Desenvolvimento de Sistemas.
 
 - 🌱 iniciei meus estudos na parte de front-end com JavaScript, HTML, CSS.
 
